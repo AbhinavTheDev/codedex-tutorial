@@ -12,7 +12,6 @@ Here's what you'll learn along the way:
 - How to **structure a card grid** with HTML.
 - How to create a **3D card flip animation** using CSS `perspective` and
   `transform`.
-- How to **shuffle an array** using the Fisher-Yates algorithm.
 - How to handle **click events** and manage game state with JavaScript.
 - How to detect **matching pairs** and determine when the game is won.
 
