@@ -673,7 +673,9 @@ of the turn:
 Notice we use `event.target.closest(".card")` instead of checking `event.target`
 directly. The player might click on the image, the `?` text, or the card face —
 `.closest()` walks up the DOM tree to find the nearest `.card` ancestor. This is
-a common pattern for handling clicks on elements with nested children.
+a tricky pattern that we need for handling clicks on cards.
+
+[Read More about closest()](https://developer.mozilla.org/en-US/docs/Web/API/Element/closest)
 
 ## Step 11: Starting the Game
 
