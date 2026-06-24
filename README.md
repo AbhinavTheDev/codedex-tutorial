@@ -2,11 +2,10 @@
 
 Remember those memory card games from childhood — the ones where you'd flip two
 cards at a time, trying to find matching pairs? You'd flip one, remember where
-the cat was, flip another... and somehow still pick the wrong one. Classic.
+the animal was, flip another... Nostalgic.
 
 In this tutorial, we'll build our own **Memory Card Game** right in the browser
-using just HTML, CSS, and JavaScript. No frameworks, no libraries — just you and
-the fundamentals.
+using HTML, CSS, and JavaScript.
 
 Here's what you'll learn along the way:
 
